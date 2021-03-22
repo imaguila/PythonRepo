@@ -4,4 +4,4 @@ Created on Thu Mar  5 17:26:11 2020
 
 @author: ISA
 """
-print ("Hola Mundo generalizado")
+print ("Hola Mundo generalizado ")
